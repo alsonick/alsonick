@@ -1,4 +1,4 @@
-# Hey, I'm Nicholas 👋
+# Hi, I'm Nicholas 👋
 
 I'm a full-stack developer using tools like TypeScript & Rust.
 
