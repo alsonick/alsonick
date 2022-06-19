@@ -1,6 +1,6 @@
 # Hey, I'm Nicholas 👋
 
-I'm a backend engineer using tools like [TypeScript](https://www.typescriptlang.org/) & [Java](https://java.com).
+I'm a backend engineer using tools like [TypeScript](https://www.typescriptlang.org/) & [Python](https://www.python.org/).
 
 ## Contact Me 💌
 Be sure to <a href="https://twitter.com/heynickn">shoot me a DM on Twitter</a>.
