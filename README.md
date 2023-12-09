@@ -1,6 +1,6 @@
 # Hey, I'm Nicholas 👋
 
-I'm a software engineer mainly focused on the field of mobile app development, more specifically iOS development.<br />
+software engineer mainly focused on the field of mobile app development, more specifically iOS development. huge swift enthusiast, contact: hi@nontnick.io. <br />
 
 ## Contact Me 💌
 Be sure to <a href="https://twitter.com/heynickn">shoot me a DM on Twitter</a>.
