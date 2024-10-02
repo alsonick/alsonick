@@ -1,6 +1,6 @@
 # Hey, I'm Nicholas 👋
 
-I'm a software engineer mainly focused on the field of mobile app development but I also have some experience with web technologies. I mostly specialize in iOS development. I'm also a huge [Swift](https://www.swift.org/) enthusiast so ask me anything you'd like! <br />
+I'm a 21 year old software engineer located in the United Kingdom. I roughly have around 4 years of experience in web development and I'm familiar with modern web technologies such as React & TypeScript. I'm currently studying Computer Science and I plan to specialize in server-side development in the near future. <br />
 
 ## Contact Me 💌
 Be sure to <a href="https://twitter.com/heynickn">shoot me a DM on X (Previously Twitter)</a>.
