@@ -1,6 +1,6 @@
 ## Hey, I'm Nicholas 👋
 
-I'm a 22 year old Software Engineer in the United Kingdom. I have 6 years of experience in web development and am familiar with modern web technologies such as [React](https://react.dev/) & [TypeScript](https://www.typescriptlang.org/). I'm currently pursuing a degree in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering).
+I'm a Software Engineer based in the United Kingdom. I have 6 years of experience in web development and am familiar with modern web technologies such as [React](https://react.dev/) & [TypeScript](https://www.typescriptlang.org/). I'm currently pursuing a degree in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering).
 
 ## Technologies 💻
 
