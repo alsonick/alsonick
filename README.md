@@ -2,14 +2,6 @@
 
 I'm a Software Engineer based in the United Kingdom, I'm currently pursuing a degree in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering).
 
-## Technologies 💻
-
-- [TypeScript](https://www.typescriptlang.org/) - Primary language, used for developing API services.
-- [Node.js](https://nodejs.org/) - Used to create small programs or scripts.
-- [Java](https://www.java.com/en/) - Secondary language, mostly used in a professional setting.
-- [React](https://react.dev/) - Used for developing friendly user interfaces.
-
-
 ## Contact Me 💌
 
 Be sure to <a href="https://twitter.com/heynickn">shoot me a DM on X (Previously Twitter)</a>.
