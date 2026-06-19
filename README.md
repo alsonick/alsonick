@@ -1,4 +1,4 @@
-## Hey, I'm Nicholas 👋
+# Hey, I'm Nicholas 👋
 
 I'm a Software Engineer based in the United Kingdom, I'm currently pursuing a degree in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering).
 
